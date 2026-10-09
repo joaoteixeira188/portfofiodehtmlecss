@@ -1,0 +1,205 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  display: flex;
+  padding: 10px;
+  gap: 20px;
+  width: 100%;
+  min-height: 50px;
+  background-color: whitesmoke;
+  align-items: center;
+  justify-content: center;
+  justify-content: flex-end;
+}
+nav a{
+  border-radius: 10px;
+  padding: 5px;
+  background-color: blueviolet;
+  text-decoration: none;
+}
+.comeco{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100px;
+  background-color: whitesmoke;
+  gap: 20px;
+  padding: 10px;
+}
+.comeco img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  
+}
+.eu{
+  padding: 10px;
+  background-color: whitesmoke;
+}
+.tec{
+  display: flex;
+  width: 100%;
+  min-height: 50px;
+  background-color: white;
+  gap: 20px;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+.tec h2{
+  color: blueviolet;
+}
+.icones{
+  display: flex;
+  width: 100%;
+  min-height: 40px;
+  padding: 10px;
+  gap: 30px;
+  flex-direction: row;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+.icones img{
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  padding: 5px;
+  
+}
+.ferra{
+  display: flex;
+  width: 100%;
+  min-height: 50px;
+  background-color: white;
+  gap: 20px;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+.ferra h2{
+  color: blueviolet;
+}
+.icones2{
+  display: flex;
+  width: 100%;
+  min-height: 40px;
+  padding: 10px;
+  gap: 30px;
+  flex-direction: row;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+.icones2 img{
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  padding: 5px;
+}
+.projetos{
+  display: flex;
+  width: 100%;
+  min-height: 50px;
+  background-color: white;
+  gap: 20px;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+.projetos h2{
+  color: blueviolet;
+}
+.links{
+  display: flex;
+  width: 100%;
+  min-height: 40px;
+  padding: 10px;
+  gap: 20px;
+  flex-direction: row;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+.links a{
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 5px;
+}
+.links a img{
+  width: 40px;
+  height: 40px;
+}
+.rodape{
+  display: flex;
+  width: 100%;
+  min-height: 40px;
+  background-color: whitesmoke;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  
+}
+.sobre{
+  display: flex;
+  width: 100%;
+  min-height: 100px;
+  padding: 10px;
+  background-color: white;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.minhafoto{
+  display: flex;
+  width: 100%;
+  min-height: 100px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  
+}
+.minhafoto img{
+  border-radius: 10px;
+  width: 150px;
+  height: auto;
+}
+.contato{
+  display: flex;
+  width: 100%;
+  min-height: 100px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: white;
+  
+}
+.perfis{
+  display: flex;
+  width: 100%;
+  min-height: 50px;
+  background-color: white;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 20px;
+}
+.perfis a{
+  border-radius: 10px;
+  background-color: blueviolet;
+  text-decoration: none;
+  padding: 5px;
+}
