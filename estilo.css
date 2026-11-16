@@ -17,14 +17,14 @@ nav {
   min-height: 50px;
   background-color: whitesmoke;
   align-items: center;
-  justify-content: flex-end; /* Você tinha dois justify-content, deixei só o que funciona */
+  justify-content: flex-end; 
 }
 
 nav a {
   border-radius: 10px;
   padding: 8px 12px;
   background-color: blueviolet;
-  color: white; /* Deixa o texto legível no fundo roxo */
+  color: white; 
   text-decoration: none;
 }
 
